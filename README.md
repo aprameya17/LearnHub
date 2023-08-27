@@ -1,4 +1,4 @@
-# Multi-Utility Student Dashboard 
+# LearnHub: Multi-Utility Student Dashboard 
 The project consists of a dashboard containing various features for a student:<br />
 -Creating Notes<br />
 -Listing Homework<br />
